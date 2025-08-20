@@ -1,5 +1,5 @@
 # JFramework-WebStack with Security Example
-_Last updated: 2022-11-26_
+_Last updated: Aug 20, 2025_
 
 This repository contains a _JFramework-WebStack_ with Spring Security enabled.
 
